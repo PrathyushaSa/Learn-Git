@@ -1,0 +1,46 @@
+
+                                                                                    Day- 2 Class
+
+ What is IT?
+
+What is Software ?
+
+Different types of computers ?
+Technology Evolutions?
+Types of Projects ?
+Types of Roles ?
+
+How the Work is been Organised ?
+Basic requirement when we entire into a IT Company ?
+
+Reatime Terminology?
+Desktop or Computer ?
+What is A server ?
+Project Handling Methodolgy?
+What is Agile ?
+
+Tools 
+a. GIT
+b. GITLAB
+c. BITbucket
+d. SVN
+e. Putty
+f. STS
+G. Eclipse
+h. Intelig
+i. Spluk
+j. App Dyntrace(App dynamics)
+k. ControlM
+l. Genious
+
+15. Database.
+How to Access the Database 
+what tools to be used to access the Database .
+
+16. Introduction of Cloud 
+17. Onpromises of Data centre
+18. Cloud
+19. How to manage in IT 
+20. How to be answerable in Calls 
+
+
